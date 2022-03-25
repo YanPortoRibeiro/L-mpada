@@ -1,0 +1,13 @@
+header, main    { /* Campo de Estilo do Cabeçalho[Título] e da Imagem e do Botâo - usando flexbox */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer  { /* Estilo do Rodapé */
+    color: rgb(9, 9, 211, 0.986);
+    text-align: center;
+    font-style: italic;
+}
+button  { /* Estilo do Botão */
+    width: 100px;
+}
